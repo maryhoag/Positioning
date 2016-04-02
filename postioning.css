@@ -1,0 +1,29 @@
+
+.p {
+	text-align: center;
+}
+}
+#one {
+	background-color: lightgray;
+	width: 20%;
+	height: 25px;
+
+	top: 2%;
+	right: 7%;
+
+}
+#two {
+	background-color: AliceBlue;
+	width: 20%;
+	height: 25px;
+	top: -10px;
+	right: 40px;
+
+}
+#three {
+	background-color: thistle;
+	width: 20%;
+	height: 25px;
+	top: -10%;
+	right: 40%;
+}
